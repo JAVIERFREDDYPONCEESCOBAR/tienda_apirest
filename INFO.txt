@@ -1,0 +1,21 @@
+id
+nombre
+apellidos
+contrasena
+telefono
+email
+direccion
+ciudad
+departamento
+
+
+{    
+  "nombre":"mario",
+  "apellidos":"ponce",
+  "contrasena":"12345",
+  "telefono":"335974",
+  "email":"mario@gmail.com",
+  "direccion":"Calle 56 # 78-25",
+  "ciudad":"mexico",
+  "departamento":" numero 4"
+}
